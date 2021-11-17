@@ -3,6 +3,10 @@
 Curso de udemy:
 https://www.udemy.com/course/aprende-a-programar-con-go/learn/lecture/12486006#overview
 
+Curso en docx
+https://docs.google.com/document/d/1yHK6Aqzd-KHMJL1pZBQXvdZURJFIkfaUxYbQNnLTVl4/edit#
+
+
 Aprende a programar El lenguaje de programación de Google (golang)
 
 TOC \h \u \z \n Video promo
